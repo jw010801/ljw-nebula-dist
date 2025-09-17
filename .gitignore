@@ -1,0 +1,17 @@
+# 기본: 전부 제외
+/*
+
+# 예외: 깃 설정/Pages 보조
+!.gitignore
+!.nojekyll
+
+# 배포 인덱스 포함
+!/distribution.json
+
+# 아티팩트 저장소 포함 (전체 하위)
+!/repo/
+!/repo/**
+
+# 버전 매니페스트 포함 (전체 하위)
+!/versions/
+!/versions/**

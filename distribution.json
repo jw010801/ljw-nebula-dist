@@ -3,8 +3,8 @@
   "servers": [
     {
       "id": "Myserver-1.20.1",
-      "name": "Myserver (Minecraft 1.20.1)",
-      "description": "Myserver Running Minecraft 1.20.1 (Forge v47.4.0)",
+      "name": "LJW's Server",
+      "description": "hello world",
       "icon": null,
       "version": "1.0.0",
       "address": "snowpiercer.kro.kr:25565",
