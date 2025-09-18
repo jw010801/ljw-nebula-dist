@@ -462,6 +462,16 @@
           }
         },
         {
+          "id": "com.github.jw010801:rpg:1.0-SNAPSHOT@jar",
+          "name": "Rpg",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 32946,
+            "url": "https://jw010801.github.io/ljw-nebula-dist/servers/Myserver-1.20.1/forgemods/required/rpg-1.0-SNAPSHOT.jar",
+            "MD5": "94271c3706006ea8c63e420089d89ef8"
+          }
+        },
+        {
           "id": "com.possible_triangle:sliceanddice:3.4.1@jar",
           "name": "Create Slice & Dice",
           "type": "ForgeMod",
