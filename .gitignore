@@ -15,3 +15,5 @@
 # 버전 매니페스트 포함 (전체 하위)
 !/versions/
 !/versions/**
+
+!servers/Myserver-1.20.1/forgemods/required/**
