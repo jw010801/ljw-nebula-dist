@@ -476,19 +476,19 @@
           "name": "Rpg",
           "type": "ForgeMod",
           "artifact": {
-            "size": 76244,
+            "size": 76767,
             "url": "https://jw010801.github.io/ljw-nebula-dist/servers/Myserver-1.20.1/forgemods/required/rpg-1.0-SNAPSHOT.jar",
-            "MD5": "7d67a6e0db5b224db5b384298f61f26d"
+            "MD5": "a4f990184d672a0aaae00d63447cbdf8"
           }
         },
         {
-          "id": "com.possible_triangle:sliceanddice:3.4.1@jar",
+          "id": "com.possible_triangle:sliceanddice:3.5.1@jar",
           "name": "Create Slice & Dice",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1187478,
-            "url": "https://jw010801.github.io/ljw-nebula-dist/servers/Myserver-1.20.1/forgemods/required/sliceanddice-forge-3.4.1.jar",
-            "MD5": "8a94b0b348956e2ceafdee3ac9970417"
+            "size": 587590,
+            "url": "https://jw010801.github.io/ljw-nebula-dist/servers/Myserver-1.20.1/forgemods/required/sliceanddice-forge-3.5.1.jar",
+            "MD5": "9a771902f07e90f8fc24ab714ac7a669"
           }
         },
         {
