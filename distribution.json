@@ -452,6 +452,16 @@
           }
         },
         {
+          "id": "com.hyfata.najoan.koreanpatch.client:koreanpatch:1.9.0+mc1.20.1@jar",
+          "name": "Korean Patch",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 315488,
+            "url": "https://jw010801.github.io/ljw-nebula-dist/servers/Myserver-1.20.1/forgemods/required/koreanpatch-forge-1.9.0+mc1.20.1.jar",
+            "MD5": "dc6a73dcbec683185bd2e3c87ad8fb17"
+          }
+        },
+        {
           "id": "generated.forgemod:kotlinforforge:4.11.0-all@jar",
           "name": "Kotlinforforge",
           "type": "ForgeMod",
@@ -466,9 +476,9 @@
           "name": "Rpg",
           "type": "ForgeMod",
           "artifact": {
-            "size": 52677,
+            "size": 52876,
             "url": "https://jw010801.github.io/ljw-nebula-dist/servers/Myserver-1.20.1/forgemods/required/rpg-1.0-SNAPSHOT.jar",
-            "MD5": "d84dd7eb03119041f0f9ca42e831b353"
+            "MD5": "59425bd971080e03f385508ad158a611"
           }
         },
         {
@@ -479,6 +489,17 @@
             "size": 1187478,
             "url": "https://jw010801.github.io/ljw-nebula-dist/servers/Myserver-1.20.1/forgemods/required/sliceanddice-forge-3.4.1.jar",
             "MD5": "8a94b0b348956e2ceafdee3ac9970417"
+          }
+        },
+        {
+          "id": "BetterHangulFont.zip",
+          "name": "BetterHangulFont.zip",
+          "type": "File",
+          "artifact": {
+            "size": 80185,
+            "url": "https://jw010801.github.io/ljw-nebula-dist/servers/Myserver-1.20.1/files/resourcepacks/BetterHangulFont.zip",
+            "MD5": "8bee6a3d18c216e4d4e78faecc066ef3",
+            "path": "resourcepacks/BetterHangulFont.zip"
           }
         }
       ]
