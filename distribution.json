@@ -512,16 +512,6 @@
           }
         },
         {
-          "id": "dev.tr7zw:entityculling:1.8.2@jar",
-          "name": "EntityCulling",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 478568,
-            "url": "https://jw010801.github.io/ljw-nebula-dist/servers/Myserver-1.20.1/forgemods/required/entityculling-forge-1.8.2-mc1.20.1.jar",
-            "MD5": "27a0e6445bca14ddd3bfc7c28a0b2077"
-          }
-        },
-        {
           "id": "de.cheaterpaul:fallingleaves:2.1.2@jar",
           "name": "Fallingleaves",
           "type": "ForgeMod",
@@ -562,16 +552,6 @@
           }
         },
         {
-          "id": "com.hyfata.najoan.koreanpatch.client:koreanpatch:1.9.0+mc1.20.1@jar",
-          "name": "Korean Patch",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 315488,
-            "url": "https://jw010801.github.io/ljw-nebula-dist/servers/Myserver-1.20.1/forgemods/required/koreanpatch-forge-1.9.0+mc1.20.1.jar",
-            "MD5": "dc6a73dcbec683185bd2e3c87ad8fb17"
-          }
-        },
-        {
           "id": "generated.forgemod:kotlinforforge:4.11.0-all@jar",
           "name": "Kotlinforforge",
           "type": "ForgeMod",
@@ -579,16 +559,6 @@
             "size": 7193768,
             "url": "https://jw010801.github.io/ljw-nebula-dist/servers/Myserver-1.20.1/forgemods/required/kotlinforforge-4.11.0-all.jar",
             "MD5": "417caa90d17dc86cf7d24b802c2a5c56"
-          }
-        },
-        {
-          "id": "dev.tr7zw:notenoughanimations:1.10.2@jar",
-          "name": "NotEnoughAnimations",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 845556,
-            "url": "https://jw010801.github.io/ljw-nebula-dist/servers/Myserver-1.20.1/forgemods/required/notenoughanimations-forge-1.10.2-mc1.20.1.jar",
-            "MD5": "84d42c835d53d25fc1c6adb25a7f5202"
           }
         },
         {
