@@ -482,6 +482,26 @@
           }
         },
         {
+          "id": "de.markusbordihn.easynpc:easy_npc:5.9.2@jar",
+          "name": "Easy NPC",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1612523,
+            "url": "https://cdn.modrinth.com/data/CgGEe1h3/versions/AE2B5XuV/easy_npc-forge-1.20.1-5.9.2.jar",
+            "MD5": "ecc86f71eb28d0f7334b3d90c08afaaadebc27ec"
+          }
+        },
+        {
+          "id": "fuzs.easyshulkerboxes:easyshulkerboxes:8.0.2@jar",
+          "name": "Easy Shulker Boxes",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 581742,
+            "url": "https://cdn.modrinth.com/data/gA5euN8S/versions/BG9Ajkjd/EasyShulkerBoxes-v8.0.2-1.20.1-Forge.jar",
+            "MD5": "c5245255c422afa2d627e89bbbf4a2f1d5d721e8"
+          }
+        },
+        {
           "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.31+mc1.20.1@jar",
           "name": "Embeddium",
           "type": "ForgeMod",
@@ -499,6 +519,16 @@
             "size": 478568,
             "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/zinofwiX/entityculling-forge-1.8.2-mc1.20.1.jar",
             "MD5": "0a465a4dbbc4b21b3465bb15796635b5c1024cf4"
+          }
+        },
+        {
+          "id": "de.cheaterpaul:fallingleaves:2.1.2@jar",
+          "name": "Fallingleaves",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 124212,
+            "url": "https://cdn.modrinth.com/data/2JAUNCL4/versions/j5eND1ZA/fallingleaves-1.20.1-2.1.2.jar",
+            "MD5": "b890536f44a5c0a49f2b1f4af91c17d948b4ef4d"
           }
         },
         {
@@ -532,6 +562,36 @@
           }
         },
         {
+          "id": "com.hyfata.najoan.koreanpatch.client:koreanpatch:1.9.0+mc1.20.1@jar",
+          "name": "Korean Patch",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 315488,
+            "url": "https://cdn.modrinth.com/data/qyulnpBL/versions/EtbkGqBZ/koreanpatch-forge-1.9.0%2Bmc1.20.1.jar",
+            "MD5": "68038f2e3805d69a02f9d81f5f6761b4c6a51a5e"
+          }
+        },
+        {
+          "id": "generated.forgemod:kotlinforforge:4.11.0-all@jar",
+          "name": "Kotlinforforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7193768,
+            "url": "https://cdn.modrinth.com/data/ordsPcFz/versions/hmeyC41q/kotlinforforge-4.11.0-all.jar",
+            "MD5": "1fd8acfd75a2be2dc3cdcc7e816482b2e427d6e5"
+          }
+        },
+        {
+          "id": "dev.tr7zw:notenoughanimations:1.10.2@jar",
+          "name": "NotEnoughAnimations",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 845556,
+            "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/zc852ea9/notenoughanimations-forge-1.10.2-mc1.20.1.jar",
+            "MD5": "b31ffefa9579649de8acbac53ac0792830f71e60"
+          }
+        },
+        {
           "id": "net.irisshaders.iris:oculus:1.8.0@jar",
           "name": "Oculus",
           "type": "ForgeMod",
@@ -542,6 +602,26 @@
           }
         },
         {
+          "id": "eu.ha3:presencefootsteps:1.20.1-1.9.1-beta.1@jar",
+          "name": "Presence Footsteps (Forge)",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7080698,
+            "url": "https://jw010801.github.io/ljw-nebula-dist/servers/Myserver-1.20.1/forgemods/required/PresenceFootsteps-1.20.1-1.9.1-beta.1.jar",
+            "MD5": "e42d774ced61f8c62c58f3111aa5e3f5"
+          }
+        },
+        {
+          "id": "fuzs.puzzleslib.impl:puzzleslib:8.1.33@jar",
+          "name": "Puzzles Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1342987,
+            "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/mIyVGf3d/PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+            "MD5": "285b7c7616971338ccbe0022c9ea0f8ad3036aaf"
+          }
+        },
+        {
           "id": "com.github.jw010801:rpg:1.0-SNAPSHOT@jar",
           "name": "Rpg",
           "type": "ForgeMod",
@@ -549,6 +629,76 @@
             "size": 78644,
             "url": "https://jw010801.github.io/ljw-nebula-dist/servers/Myserver-1.20.1/forgemods/required/rpg-1.0-SNAPSHOT.jar",
             "MD5": "de39e9aa864ebe137ff3a2199e3e1f8c"
+          }
+        },
+        {
+          "id": "com.possible_triangle:sliceanddice:3.5.1@jar",
+          "name": "Create Slice & Dice",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 587590,
+            "url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/ytzEKFPs/sliceanddice-forge-3.5.1.jar",
+            "MD5": "8596c15f5be96c1035b400519e7c7bb7c44edea4"
+          }
+        },
+        {
+          "id": "dev.shwg:smoothswapping:0.9.2@jar",
+          "name": "Smooth Swapping",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 63398,
+            "url": "https://cdn.modrinth.com/data/nmVEZj6t/versions/5Gp6PY2o/smoothswapping-0.9.2-1.20.1-forge.jar",
+            "MD5": "3c4bdbd18e6c5336e0b12c7a63a56f28681a1187"
+          }
+        },
+        {
+          "id": "com.sonicether.soundphysics:sound_physics_remastered:1.20.1-1.4.10@jar",
+          "name": "Sound Physics Remastered",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 203819,
+            "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/qeWNOzYk/sound-physics-remastered-forge-1.20.1-1.4.10.jar",
+            "MD5": "6a1d847f7ec05e96ba3c33cc81fb8dce4c718c44"
+          }
+        },
+        {
+          "id": "terrablender.core:terrablender:3.0.1.10@jar",
+          "name": "TerraBlender",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 107533,
+            "url": "https://cdn.modrinth.com/data/kkmrDlKT/versions/zGconCHG/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+            "MD5": "b3dbaf1aac31601b9efb19e4c67646750041968a"
+          }
+        },
+        {
+          "id": "xyz.trivaxy:tia:1.20-1.1@jar",
+          "name": "Tiny Item Animations",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11766,
+            "url": "https://cdn.modrinth.com/data/wMkevcSR/versions/kaDOLZqw/tia-1.20-1.1-forge.jar",
+            "MD5": "bd1eac323a351355d21ddf720fb0503020c77928"
+          }
+        },
+        {
+          "id": "plus.dragons:visuality:2.0.2@jar",
+          "name": "Visuality: Reforged",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 215750,
+            "url": "https://cdn.modrinth.com/data/z13R7Et1/versions/MyhpSYT4/visuality-forge-2.0.2.jar",
+            "MD5": "1f0547f3ba508156cd4630bf793df464230e04f3"
+          }
+        },
+        {
+          "id": "de.maxhenkel:voicechat:1.20.1-2.5.35@jar",
+          "name": "Simple Voice Chat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 8646989,
+            "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/U9YDnOZe/voicechat-forge-1.20.1-2.5.35.jar",
+            "MD5": "db23cf4a833f764a97543d2435ba1cccc963ddf8"
           }
         }
       ]
