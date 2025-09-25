@@ -700,6 +700,39 @@
             "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/U9YDnOZe/voicechat-forge-1.20.1-2.5.35.jar",
             "MD5": "db23cf4a833f764a97543d2435ba1cccc963ddf8"
           }
+        },
+        {
+          "id": "BetterHangulFont.zip",
+          "name": "BetterHangulFont.zip",
+          "type": "File",
+          "artifact": {
+            "size": 80185,
+            "url": "https://cdn.modrinth.com/data/o3Q8drCu/versions/inpYOhNH/BetterHangulFont.zip",
+            "MD5": "78265ed128bb612a598cc34d7e26710913592e1a",
+            "path": "resourcepacks/BetterHangulFont.zip"
+          }
+        },
+        {
+          "id": "qrafty's-capitalized-font-3.1.zip",
+          "name": "qrafty's-capitalized-font-3.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 237577,
+            "url": "https://cdn.modrinth.com/data/FA4ebMMU/versions/vHqyajR1/qrafty%27s-capitalized-font-3.1.zip",
+            "MD5": "55adacc5b5b90c2ff8f4da2650ef57cec29b3d3f",
+            "path": "resourcepacks/qrafty's-capitalized-font-3.1.zip"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.5.1.zip",
+          "name": "ComplementaryUnbound_r5.5.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 456332,
+            "url": "https://cdn.modrinth.com/data/R6NEzAwj/versions/1ng9gVp7/ComplementaryUnbound_r5.5.1.zip",
+            "MD5": "52fdb332e6de592cceb8f85f2dc756eb78afab01",
+            "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip"
+          }
         }
       ]
     }
