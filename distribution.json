@@ -482,6 +482,16 @@
           }
         },
         {
+          "id": "com.razz:decocraft:3.0.0.12-beta-1.20.1@jar",
+          "name": "Decocraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 93365748,
+            "url": "https://cdn.modrinth.com/data/IZJSgKZe/versions/Tj80BJc1/decocraft-3.0.0.12-beta-1.20.1-slim.jar",
+            "MD5": "cba29379d03c5823136ff1d046d352c48e7f45b7"
+          }
+        },
+        {
           "id": "de.markusbordihn.easynpc:easy_npc:5.9.2@jar",
           "name": "Easy NPC",
           "type": "ForgeMod",
