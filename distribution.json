@@ -562,6 +562,16 @@
           }
         },
         {
+          "id": "cpw.mods:inventorysorter:23.1.9@jar",
+          "name": "Simple Inventory Sorter (Configurable)",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 55856,
+            "url": "https://cdn.modrinth.com/data/5mTUz0VW/versions/ItiqYtL3/inventorysorter-1.20.1-23.1.9.jar",
+            "MD5": "7790b0e105ffb36cbeee4e818edc4d94d5680dd1"
+          }
+        },
+        {
           "id": "mezz.jei:jei:15.20.0.113@jar",
           "name": "Just Enough Items",
           "type": "ForgeMod",
