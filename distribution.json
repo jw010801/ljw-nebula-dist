@@ -646,9 +646,9 @@
           "name": "Rpg",
           "type": "ForgeMod",
           "artifact": {
-            "size": 106669,
+            "size": 124723,
             "url": "https://jw010801.github.io/ljw-nebula-dist/servers/Myserver-1.20.1/forgemods/required/rpg-1.0-SNAPSHOT.jar",
-            "MD5": "31e4c48adf7e76c1d051718985fb2274"
+            "MD5": "07f25e4324a83c304099c0d9106d9eea"
           }
         },
         {
