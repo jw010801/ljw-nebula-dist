@@ -612,6 +612,16 @@
           }
         },
         {
+          "id": "com.github.l_ender:lionfishapi:2.4@jar",
+          "name": "LionfishAPI",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 165468,
+            "url": "https://cdn.modrinth.com/data/FoVacERa/versions/KZh3Mkcu/lionfishapi-2.4.jar",
+            "MD5": "904f098cdccb2c61623aaa466dff3f6c8c6a0977"
+          }
+        },
+        {
           "id": "dev.tr7zw:notenoughanimations:1.10.2@jar",
           "name": "NotEnoughAnimations",
           "type": "ForgeMod",
