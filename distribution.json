@@ -482,6 +482,16 @@
           }
         },
         {
+          "id": "top.theillusivec4:curios:5.14.1+1.20.1@jar",
+          "name": "Curios API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 398066,
+            "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/IPQlZkz1/curios-forge-5.14.1%2B1.20.1.jar",
+            "MD5": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480"
+          }
+        },
+        {
           "id": "com.razz:decocraft:3.0.0.12-beta-1.20.1@jar",
           "name": "Decocraft",
           "type": "ForgeMod",
