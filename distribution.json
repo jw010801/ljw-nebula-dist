@@ -432,6 +432,36 @@
           }
         },
         {
+          "id": "dev.architectury:architectury:9.2.14@jar",
+          "name": "Architectury",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 580602,
+            "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-forge.jar",
+            "MD5": "a52918a500ff421180a1cbd1a0cabee712134ec4"
+          }
+        },
+        {
+          "id": "jackiecrazy.attributizer:attributizer:3.1@jar",
+          "name": "Attributizer",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 64264,
+            "url": "https://jw010801.github.io/ljw-nebula-dist/servers/Myserver-1.20.1/forgemods/required/attributizer-3.1.jar",
+            "MD5": "9da9f45bb3eed4c45808e31fbc8bb6cc"
+          }
+        },
+        {
+          "id": "net.bettercombat:bettercombat:1.8.6+1.20.1@jar",
+          "name": "Better Combat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1050118,
+            "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/UjlaL0Fm/bettercombat-forge-1.8.6%2B1.20.1.jar",
+            "MD5": "70c20cd81a4051b2ad4289ff6522e80b397d7b3d"
+          }
+        },
+        {
           "id": "biomesoplenty.core:biomesoplenty:18.0.0.592@jar",
           "name": "Biomes O' Plenty",
           "type": "ForgeMod",
@@ -459,6 +489,26 @@
             "size": 439457,
             "url": "https://cdn.modrinth.com/data/joEfVgkn/versions/edGQD16r/carryon-forge-1.20.1-2.1.2.7.jar",
             "MD5": "9999714ca3dd2f2401f0396ca44f3b27c3784c4f"
+          }
+        },
+        {
+          "id": "net.mcreator.cataclysmut:cataclysm_ut:1.9.10@jar",
+          "name": "Cataclysm Apotheosis addon",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 135066,
+            "url": "https://cdn.modrinth.com/data/xY5jt711/versions/nqyV4bhr/cataclysm_ut-53%20-%201.20.1.jar",
+            "MD5": "f7a388bb824a0fe411835518710d9a2b036c9a51"
+          }
+        },
+        {
+          "id": "generated.forgemod:cataclysmiccombat:1.4@jar",
+          "name": "Cataclysmic Combat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5160,
+            "url": "https://cdn.modrinth.com/data/MehxyiU4/versions/tBvJicXF/cataclysmiccombat-1.4.jar",
+            "MD5": "8a9be47c03a3d18f6ed6615d7a3733a6c9086eab"
           }
         },
         {
@@ -632,6 +682,16 @@
           }
         },
         {
+          "id": "org.embeddedt.modernfix.forge.init:modernfix:5.24.4+mc1.20.1@jar",
+          "name": "ModernFix",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 880557,
+            "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/CixO1IdG/modernfix-forge-5.24.4%2Bmc1.20.1.jar",
+            "MD5": "daeccb1fbe1d67d426fcc8135cfff463ff0f7e1d"
+          }
+        },
+        {
           "id": "dev.tr7zw:notenoughanimations:1.10.2@jar",
           "name": "NotEnoughAnimations",
           "type": "ForgeMod",
@@ -649,6 +709,26 @@
             "size": 2851119,
             "url": "https://cdn.modrinth.com/data/GchcoXML/versions/iQ1SwGc3/oculus-mc1.20.1-1.8.0.jar",
             "MD5": "984f774e71790deaec674c7587bd24e0711871b2"
+          }
+        },
+        {
+          "id": "vazkii.patchouli:patchouli:1.20.1-84.1-FORGE@jar",
+          "name": "Patchouli",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 642711,
+            "url": "https://cdn.modrinth.com/data/nU0bVIaL/versions/8Qyw08ld/Patchouli-1.20.1-84.1-FORGE.jar",
+            "MD5": "e91d2e2f251375d647d592b670ea6f310c2554eb"
+          }
+        },
+        {
+          "id": "virtuoel.pehkui:pehkui:3.8.2+1.20.1-forge@jar",
+          "name": "Pehkui",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 671605,
+            "url": "https://cdn.modrinth.com/data/t5W7Jfwy/versions/SQpqSgAE/Pehkui-3.8.2%2B1.20.1-forge.jar",
+            "MD5": "4bc816efdd8e5e2a97423313674401351710e403"
           }
         },
         {
@@ -679,6 +759,16 @@
             "size": 283430,
             "url": "https://jw010801.github.io/ljw-nebula-dist/servers/Myserver-1.20.1/forgemods/required/rpg-1.0-SNAPSHOT.jar",
             "MD5": "27d0bd17edf27692011f954622cf5687"
+          }
+        },
+        {
+          "id": "net.sweenus:simplyswords:1.56.0-1.20.1@jar",
+          "name": "Simply Swords",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15202091,
+            "url": "https://cdn.modrinth.com/data/bK3Ubu9p/versions/OFYmngee/simplyswords-forge-1.56.0-1.20.1.jar",
+            "MD5": "ff801e939da0f9afc2d96cce4375d8c4bb368533"
           }
         },
         {
