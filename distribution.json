@@ -492,6 +492,16 @@
           }
         },
         {
+          "id": "com.p1nero:cataclysm_dimension:1.5.1@jar",
+          "name": "Cataclysm Dimension",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 170864,
+            "url": "https://cdn.modrinth.com/data/JWCzrgCa/versions/nQk97yNy/cataclysm_dimension-forge1.20.1-1.5.1.jar",
+            "MD5": "412d68cf7396b3693c116fcbfb4e77a1d3d943af"
+          }
+        },
+        {
           "id": "net.mcreator.cataclysmut:cataclysm_ut:1.9.10@jar",
           "name": "Cataclysm Apotheosis addon",
           "type": "ForgeMod",
