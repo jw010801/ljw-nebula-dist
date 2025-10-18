@@ -802,6 +802,16 @@
           }
         },
         {
+          "id": "mods.flammpfeil:slashblade:1.7.56@jar",
+          "name": "Slash Blade:Resharped",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3847846,
+            "url": "https://cdn.modrinth.com/data/8T53F0sy/versions/Vpjgdv7T/SlashBladeResharped-1.20.1-1.7.56.jar",
+            "MD5": "b359ee91d625786926c0f34c1bda5b4c124bba37"
+          }
+        },
+        {
           "id": "com.possible_triangle:sliceanddice:3.5.1@jar",
           "name": "Create Slice & Dice",
           "type": "ForgeMod",
@@ -891,6 +901,17 @@
             "url": "https://cdn.modrinth.com/data/FA4ebMMU/versions/vHqyajR1/qrafty%27s-capitalized-font-3.1.zip",
             "MD5": "55adacc5b5b90c2ff8f4da2650ef57cec29b3d3f",
             "path": "resourcepacks/qrafty's-capitalized-font-3.1.zip"
+          }
+        },
+        {
+          "id": "Simply Swords Reforged v1.zip",
+          "name": "Simply Swords Reforged v1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1214587,
+            "url": "https://cdn.modrinth.com/data/abPebRRB/versions/Ykvp4dCv/Simply%20Swords%20Reforged%20v1.zip",
+            "MD5": "d31fc24f87ef984590c306e640339498e4638b12",
+            "path": "resourcepacks/Simply Swords Reforged v1.zip"
           }
         },
         {
