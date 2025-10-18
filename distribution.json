@@ -572,6 +572,16 @@
           }
         },
         {
+          "id": "net.mehvahdjukaar:dummmmmmy:1.20-2.0.9@jar",
+          "name": "MmmMmmMmmmmm",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 363044,
+            "url": "https://cdn.modrinth.com/data/Adega8YN/versions/zAahRq2q/dummmmmmy-1.20-2.0.9.jar",
+            "MD5": "782d16edca6fa22fb72fa825cec39117bbb7e78a"
+          }
+        },
+        {
           "id": "de.markusbordihn.easynpc:easy_npc:5.9.2@jar",
           "name": "Easy NPC",
           "type": "ForgeMod",
