@@ -722,6 +722,16 @@
           }
         },
         {
+          "id": "net.mehvahdjukaar:moonlight:1.20-2.16.15@jar",
+          "name": "Moonlight Library",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1333278,
+            "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/q6pVkPDR/moonlight-1.20-2.16.15-forge.jar",
+            "MD5": "5b87fafe107c93754765b0490fbf0250df520b6e"
+          }
+        },
+        {
           "id": "dev.tr7zw:notenoughanimations:1.10.2@jar",
           "name": "NotEnoughAnimations",
           "type": "ForgeMod",
