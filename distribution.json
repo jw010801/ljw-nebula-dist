@@ -442,13 +442,13 @@
           }
         },
         {
-          "id": "jackiecrazy.attributizer:attributizer:3.1@jar",
-          "name": "Attributizer",
+          "id": "net.darkhax:attributefix:21.0.4@jar",
+          "name": "AttributeFix",
           "type": "ForgeMod",
           "artifact": {
-            "size": 64264,
-            "url": "https://jw010801.github.io/ljw-nebula-dist/servers/Myserver-1.20.1/forgemods/required/attributizer-3.1.jar",
-            "MD5": "9da9f45bb3eed4c45808e31fbc8bb6cc"
+            "size": 19471,
+            "url": "https://cdn.modrinth.com/data/lOOpEntO/versions/Y42wjyly/AttributeFix-Forge-1.20.1-21.0.4.jar",
+            "MD5": "6eb69343eb21d38f95d1b1d00e6bc777bdb336fa"
           }
         },
         {
