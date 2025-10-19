@@ -502,16 +502,6 @@
           }
         },
         {
-          "id": "net.mcreator.cataclysmut:cataclysm_ut:1.9.10@jar",
-          "name": "Cataclysm Apotheosis addon",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 135066,
-            "url": "https://cdn.modrinth.com/data/xY5jt711/versions/nqyV4bhr/cataclysm_ut-53%20-%201.20.1.jar",
-            "MD5": "f7a388bb824a0fe411835518710d9a2b036c9a51"
-          }
-        },
-        {
           "id": "generated.forgemod:cataclysmiccombat:1.4@jar",
           "name": "Cataclysmic Combat",
           "type": "ForgeMod",
@@ -752,16 +742,6 @@
           }
         },
         {
-          "id": "virtuoel.pehkui:pehkui:3.8.2+1.20.1-forge@jar",
-          "name": "Pehkui",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 671605,
-            "url": "https://cdn.modrinth.com/data/t5W7Jfwy/versions/SQpqSgAE/Pehkui-3.8.2%2B1.20.1-forge.jar",
-            "MD5": "4bc816efdd8e5e2a97423313674401351710e403"
-          }
-        },
-        {
           "id": "dev.kosmx.playeranim:playeranimator:1.0.2-rc1+1.20@jar",
           "name": "Player Animator",
           "type": "ForgeMod",
@@ -796,9 +776,9 @@
           "name": "Rpg",
           "type": "ForgeMod",
           "artifact": {
-            "size": 338000,
+            "size": 339466,
             "url": "https://jw010801.github.io/ljw-nebula-dist/servers/Myserver-1.20.1/forgemods/required/rpg-1.0-SNAPSHOT.jar",
-            "MD5": "9ce0a36101a470851228fc0da7afa735"
+            "MD5": "1136949f05733b93eaa2d9fa028772b6"
           }
         },
         {
@@ -879,6 +859,17 @@
             "size": 8646989,
             "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/U9YDnOZe/voicechat-forge-1.20.1-2.5.35.jar",
             "MD5": "db23cf4a833f764a97543d2435ba1cccc963ddf8"
+          }
+        },
+        {
+          "id": "cataclysm.toml",
+          "name": "cataclysm.toml",
+          "type": "File",
+          "artifact": {
+            "size": 20668,
+            "url": "https://jw010801.github.io/ljw-nebula-dist/servers/Myserver-1.20.1/files/config/cataclysm.toml",
+            "MD5": "02476b81e0d291d5077c76ce5755767d",
+            "path": "config/cataclysm.toml"
           }
         },
         {
