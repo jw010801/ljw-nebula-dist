@@ -1,0 +1,58 @@
+#Whether to log the dirt block on common setup
+logDirtBlock = true
+#A magic number
+#Range: > 0
+magicNumber = 42
+#What you want the introduction message to be for the magic number
+magicNumberIntroduction = "The magic number is... "
+#A list of items to log on common setup.
+items = ["minecraft:iron_ingot"]
+
+[land]
+	#Max chunks per player
+	#Range: > 1
+	maxChunksPerPlayer = 9
+	#Chunk price in G
+	#Range: > 1
+	chunkPrice = 3000
+
+	[land.spawnProtection]
+		#Whether to block interactions in spawn radius for non-admins
+		enabled = true
+		#Spawn protection radius in blocks
+		#Range: > 1
+		radius = 128
+
+[economy]
+	#Starting balance for new players (granted once on first login)
+	#Range: > 0
+	startingBalance = 0
+
+[enhance]
+	#Log damage types dealt by players for enhancement mapping
+	debugDamageTypeLog = false
+
+	[enhance.base]
+		#Enhance base damage for vanilla namespace
+		minecraft = true
+		#Enhance base damage for Simply Swords namespace
+		simplyswords = true
+		#Enhance base damage for Cataclysm namespace
+		cataclysm = true
+
+	[enhance.skill]
+		#Enhance skill damage for Simply Swords namespace
+		simplyswords = false
+		#Enhance skill damage for Cataclysm namespace
+		cataclysm = true
+
+[job]
+
+	[job.hud]
+		#Show job HUD overlay
+		enabled = true
+
+[bgm]
+	#Disable vanilla background music (client-side suppression)
+	disableVanillaMusic = true
+

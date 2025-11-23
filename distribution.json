@@ -776,9 +776,9 @@
           "name": "Rpg",
           "type": "ForgeMod",
           "artifact": {
-            "size": 4277539,
+            "size": 4277224,
             "url": "https://jw010801.github.io/ljw-nebula-dist/servers/Myserver-1.20.1/forgemods/required/rpg-1.0-SNAPSHOT.jar",
-            "MD5": "178b84f5769d8f0b783a5c09ad91e25d"
+            "MD5": "b54d0266e6194fde1eb10370e40a6876"
           }
         },
         {
@@ -870,6 +870,17 @@
             "url": "https://jw010801.github.io/ljw-nebula-dist/servers/Myserver-1.20.1/files/config/cataclysm.toml",
             "MD5": "02476b81e0d291d5077c76ce5755767d",
             "path": "config/cataclysm.toml"
+          }
+        },
+        {
+          "id": "rpg-common.toml",
+          "name": "rpg-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1401,
+            "url": "https://jw010801.github.io/ljw-nebula-dist/servers/Myserver-1.20.1/files/config/rpg-common.toml",
+            "MD5": "284f784eb5d17b1c747d4357e68b49b8",
+            "path": "config/rpg-common.toml"
           }
         },
         {
