@@ -776,9 +776,9 @@
           "name": "Rpg",
           "type": "ForgeMod",
           "artifact": {
-            "size": 4446819,
+            "size": 4447086,
             "url": "https://jw010801.github.io/ljw-nebula-dist/servers/Myserver-1.20.1/forgemods/required/rpg-1.0-SNAPSHOT.jar",
-            "MD5": "831a3f7b51b0c5a49085ced275ee96e7"
+            "MD5": "827b89e450e32eb7397d8015e10b3a19"
           }
         },
         {
@@ -799,16 +799,6 @@
             "size": 587590,
             "url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/ytzEKFPs/sliceanddice-forge-3.5.1.jar",
             "MD5": "8596c15f5be96c1035b400519e7c7bb7c44edea4"
-          }
-        },
-        {
-          "id": "dev.shwg:smoothswapping:0.9.2@jar",
-          "name": "Smooth Swapping",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 63398,
-            "url": "https://cdn.modrinth.com/data/nmVEZj6t/versions/5Gp6PY2o/smoothswapping-0.9.2-1.20.1-forge.jar",
-            "MD5": "3c4bdbd18e6c5336e0b12c7a63a56f28681a1187"
           }
         },
         {
@@ -839,6 +829,16 @@
             "size": 11766,
             "url": "https://cdn.modrinth.com/data/wMkevcSR/versions/kaDOLZqw/tia-1.20-1.1-forge.jar",
             "MD5": "bd1eac323a351355d21ddf720fb0503020c77928"
+          }
+        },
+        {
+          "id": "com.li64:tide:1.6.5@jar",
+          "name": "Tide",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 996585,
+            "url": "https://cdn.modrinth.com/data/die1AF7i/versions/apM9qbvB/tide-forge-1.20.1-1.6.5.jar",
+            "MD5": "b54ca50c3ec5cfa3a163d6feeaaef8185d68be7a"
           }
         },
         {
