@@ -522,6 +522,16 @@
           }
         },
         {
+          "id": "alabaster.crabbersdelight:crabbersdelight:1.2.3@jar",
+          "name": "Crabber's Delight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 616366,
+            "url": "https://cdn.modrinth.com/data/gBGdVBJy/versions/B2BQTXh9/crabbersdelight-1.20.1-1.2.3.jar",
+            "MD5": "a625f5b0e377597f7c884768ea8b9d0a81206831"
+          }
+        },
+        {
           "id": "com.simibubi:create:6.0.6@jar",
           "name": "Create",
           "type": "ForgeMod",
@@ -639,6 +649,16 @@
             "size": 123034,
             "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar",
             "MD5": "417fb6ce8f52abf40bd9d0390371790f9576f8ba"
+          }
+        },
+        {
+          "id": "earth.terrarium:heracles:1.1.13@jar",
+          "name": "Heracles",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1420890,
+            "url": "https://cdn.modrinth.com/data/lo90fZoB/versions/9ZUSHiZa/Heracles-forge-1.20.1-1.1.13.jar",
+            "MD5": "ca6de15e1631ccbf5463fcf3df6d3ad37aa5d6e5"
           }
         },
         {
@@ -782,6 +802,16 @@
           }
         },
         {
+          "id": "fonnymunkey.simplehats:simplehats:1.20.1-0.3.2@jar",
+          "name": "SimpleHats",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1413531,
+            "url": "https://cdn.modrinth.com/data/iSkQCp6b/versions/PH3QFp5w/simplehats-forge-1.20.1-0.3.2.jar",
+            "MD5": "569e96c692cc9536d2cfd68a37aeb097dc92c166"
+          }
+        },
+        {
           "id": "net.sweenus:simplyswords:1.56.0-1.20.1@jar",
           "name": "Simply Swords",
           "type": "ForgeMod",
@@ -849,6 +879,16 @@
             "size": 996585,
             "url": "https://cdn.modrinth.com/data/die1AF7i/versions/apM9qbvB/tide-forge-1.20.1-1.6.5.jar",
             "MD5": "b54ca50c3ec5cfa3a163d6feeaaef8185d68be7a"
+          }
+        },
+        {
+          "id": "net.ribs:vintagedelight:0.1.6@jar",
+          "name": "Vintage Delight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1120218,
+            "url": "https://cdn.modrinth.com/data/T7XZLHGD/versions/q8Ght7Bo/vintagedelight-0.1.6.jar",
+            "MD5": "279a68afc8d815e957cabc689e925cdaf7578109"
           }
         },
         {
