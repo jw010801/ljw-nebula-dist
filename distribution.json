@@ -792,6 +792,16 @@
           }
         },
         {
+          "id": "com.teamresourceful:resourcefullib:2.1.29@jar",
+          "name": "Resourceful Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 432753,
+            "url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/OhsHaCcW/resourcefullib-forge-1.20.1-2.1.29.jar",
+            "MD5": "6fc590a7c56a720fec57e290cbb0a106efbb3ffa"
+          }
+        },
+        {
           "id": "com.github.jw010801:rpg:1.0-SNAPSHOT@jar",
           "name": "Rpg",
           "type": "ForgeMod",
