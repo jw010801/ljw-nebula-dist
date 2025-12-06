@@ -812,6 +812,16 @@
           }
         },
         {
+          "id": "com.bonker.stardewfishing:stardew_fishing:3.2@jar",
+          "name": "Stardew Fishing",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 858581,
+            "url": "https://cdn.modrinth.com/data/Rw1Ylmn4/versions/7h6Cjuz9/stardew_fishing-3.2-1.20.1.jar",
+            "MD5": "0eeae8b7af36dbf6e1517e6ce7725072e67b10ab"
+          }
+        },
+        {
           "id": "terrablender.core:terrablender:3.0.1.10@jar",
           "name": "TerraBlender",
           "type": "ForgeMod",
