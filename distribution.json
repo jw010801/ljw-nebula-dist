@@ -712,6 +712,16 @@
           }
         },
         {
+          "id": "dev.latvian.mods:kubejs:2001.6.5-build.16@jar",
+          "name": "KubeJS",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1654660,
+            "url": "https://cdn.modrinth.com/data/umyGl7zF/versions/g5igndAv/kubejs-forge-2001.6.5-build.16.jar",
+            "MD5": "93fcf0eacc5dc08a4f719eaaed1dc93f0dc80f66"
+          }
+        },
+        {
           "id": "com.github.l_ender:cataclysm:3.16@jar",
           "name": "Cataclysm",
           "type": "ForgeMod",
@@ -809,6 +819,16 @@
             "size": 432753,
             "url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/OhsHaCcW/resourcefullib-forge-1.20.1-2.1.29.jar",
             "MD5": "6fc590a7c56a720fec57e290cbb0a106efbb3ffa"
+          }
+        },
+        {
+          "id": "dev.latvian.mods.rhino.mod:rhino:2001.2.3-build.10@jar",
+          "name": "Rhino",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1798244,
+            "url": "https://cdn.modrinth.com/data/sk9knFPE/versions/uNALdylI/rhino-forge-2001.2.3-build.10.jar",
+            "MD5": "c83c9b719a6bab33fbd2b3f2f680eb3adbfc1aa1"
           }
         },
         {
