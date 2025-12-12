@@ -169,7 +169,7 @@
 ["Ender Guardian"]
 	#EnderGuardian's Health Multiplier
 	#Range: 0.0 ~ 1000000.0
-	EnderGuardianHealthMultiplier = 1.0
+	EnderGuardianHealthMultiplier = 5.0
 	#EnderGuardian's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
 	EnderGuardianDamageMultiplier = 1.0
@@ -230,7 +230,7 @@
 	LavaBombRandomDuration = 150
 	#Monstrosity's Health Multiplier
 	#Range: 0.0 ~ 1000000.0
-	MonstrosityHealthMultiplier = 1.0
+	MonstrosityHealthMultiplier = 5.0
 	#Monstrosity's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
 	MonstrosityDamageMultiplier = 1.0
@@ -265,7 +265,7 @@
 	"Endergolem's prevent attacks from far away Range" = 6.0
 	#Golem's Health Multiplier
 	#Range: 0.0 ~ 1000000.0
-	GolemHealthMultiplier = 1.0
+	GolemHealthMultiplier = 3.0
 	#Golem's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
 	GolemDamageMultiplier = 1.0
@@ -298,7 +298,7 @@
 [revenant]
 	#Revenant's Health Multiplier
 	#Range: 0.0 ~ 1000000.0
-	RevenantHealthMultiplier = 1.0
+	RevenantHealthMultiplier = 3.0
 	#Revenant's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
 	RevenantDamageMultiplier = 1.0
@@ -309,7 +309,7 @@
 	"The Prowler's prevent attacks from far away Range" = 16.0
 	#Prowler's Health Multiplier
 	#Range: 0.0 ~ 1000000.0
-	ProwlerHealthMultiplier = 1.0
+	ProwlerHealthMultiplier = 3.0
 	#Prowler's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
 	ProwlerDamageMultiplier = 1.0
@@ -317,7 +317,7 @@
 ["The Harbinger"]
 	#Harbinger's Health Multiplier
 	#Range: 0.0 ~ 1000000.0
-	HarbingerHealthMultiplier = 1.0
+	HarbingerHealthMultiplier = 5.0
 	#Harbinger's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
 	HarbingerDamageMultiplier = 1.0
@@ -348,7 +348,7 @@
 ["The Leviathan"]
 	#Leviathan's Health Multiplier
 	#Range: 0.0 ~ 1000000.0
-	LeviathanHealthMultiplier = 1.0
+	LeviathanHealthMultiplier = 5.0
 	#Leviathan's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
 	LeviathanDamageMultiplier = 1.0
@@ -384,7 +384,7 @@
 ["The Baby Leviathan"]
 	#BabyLeviathan's Health Multiplier
 	#Range: 0.0 ~ 1000000.0
-	BabyLeviathanHealthMultiplier = 1.0
+	BabyLeviathanHealthMultiplier = 3.0
 	#BabyLeviathan's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
 	BabyLeviathanDamageMultiplier = 1.0
@@ -392,7 +392,7 @@
 ["Modern Remnant"]
 	#Modern Remnant's Health Multiplier
 	#Range: 0.0 ~ 1000000.0
-	ModernRemnantHealthMultiplier = 1.0
+	ModernRemnantHealthMultiplier = 5.0
 	#Modern Remnant's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
 	ModernRemnantDamageMultiplier = 1.0
@@ -400,7 +400,7 @@
 ["Netherite Ministrosity"]
 	#Ministrosity's Health Multiplier
 	#Range: 0.0 ~ 1000000.0
-	MinistrosityHealthMultiplier = 1.0
+	MinistrosityHealthMultiplier = 5.0
 
 ["Amethyst Crab"]
 	#Amethyst Crab's Health Multiplier
@@ -416,7 +416,7 @@
 ["Ancient Remnant"]
 	#Ancient Remnant's Health Multiplier
 	#Range: 0.0 ~ 1000000.0
-	AncientRemnantHealthMultiplier = 1.0
+	AncientRemnantHealthMultiplier = 5.0
 	#Ancient Remnant's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
 	AncientRemnantDamageMultiplier = 1.0
@@ -457,7 +457,7 @@
 	KobolediatorBlockBreaking = false
 	#Kobolediator's Health Multiplier
 	#Range: 0.0 ~ 1000000.0
-	KobolediatorHealthMultiplier = 1.0
+	KobolediatorHealthMultiplier = 3.0
 	#Kobolediator's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
 	KobolediatorDamageMultiplier = 1.0
@@ -465,7 +465,7 @@
 [Wadjet]
 	#Wadjet's Health Multiplier
 	#Range: 0.0 ~ 1000000.0
-	WadjetHealthMultiplier = 1.0
+	WadjetHealthMultiplier = 3.0
 	#Wadjet's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
 	WadjetDamageMultiplier = 1.0
@@ -473,7 +473,7 @@
 [Aptrgangr]
 	#Aptrgangr's Health Multiplier
 	#Range: 0.0 ~ 1000000.0
-	AptrgangrHealthMultiplier = 1.0
+	AptrgangrHealthMultiplier = 3.0
 	#Aptrgangr's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
 	AptrgangrDamageMultiplier = 1.0
@@ -484,7 +484,7 @@
 [Clawdian]
 	#Clawdian's Health Multiplier
 	#Range: 0.0 ~ 1000000.0
-	ClawdianHealthMultiplier = 1.0
+	ClawdianHealthMultiplier = 3.0
 	#Clawdian's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
 	ClawdianDamageMultiplier = 1.0
@@ -492,7 +492,7 @@
 [Scylla]
 	#Scylla's Health Multiplier
 	#Range: 0.0 ~ 1000000.0
-	ScyllaHealthMultiplier = 1.0
+	ScyllaHealthMultiplier = 5.0
 	#Scylla's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
 	ScyllaDamageMultiplier = 1.0
@@ -538,7 +538,7 @@
 [Maledictus]
 	#Maledictus's Health Multiplier
 	#Range: 0.0 ~ 1000000.0
-	MaledictusHealthMultiplier = 1.0
+	MaledictusHealthMultiplier = 5.0
 	#Maledictus's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
 	MaledictusDamageMultiplier = 1.0
