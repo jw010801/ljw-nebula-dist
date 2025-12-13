@@ -882,13 +882,13 @@
           }
         },
         {
-          "id": "com.bonker.stardewfishing:stardew_fishing:3.2@jar",
+          "id": "com.bonker.stardewfishing:stardew_fishing:3.3@jar",
           "name": "Stardew Fishing",
           "type": "ForgeMod",
           "artifact": {
-            "size": 858581,
-            "url": "https://cdn.modrinth.com/data/Rw1Ylmn4/versions/7h6Cjuz9/stardew_fishing-3.2-1.20.1.jar",
-            "MD5": "0eeae8b7af36dbf6e1517e6ce7725072e67b10ab"
+            "size": 876083,
+            "url": "https://cdn.modrinth.com/data/Rw1Ylmn4/versions/3qOnpney/stardew_fishing-3.3-1.20.1.jar",
+            "MD5": "445eea2c164dc5527d8c1d3cda9ddd00d316eb50"
           }
         },
         {
@@ -958,7 +958,7 @@
           "artifact": {
             "size": 20668,
             "url": "https://jw010801.github.io/ljw-nebula-dist/servers/Myserver-1.20.1/files/config/cataclysm.toml",
-            "MD5": "02476b81e0d291d5077c76ce5755767d",
+            "MD5": "07dd731366bd5b7d40a62b9472990a06",
             "path": "config/cataclysm.toml"
           }
         },
