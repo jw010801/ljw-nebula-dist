@@ -652,16 +652,6 @@
           }
         },
         {
-          "id": "koala.fishingreal:fishingreal:1.9.1-backport@jar",
-          "name": "FishingReal",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 20049,
-            "url": "https://cdn.modrinth.com/data/MIdaKqt7/versions/RLxe3JhW/fishingreal-forge-1.20.1-1.9.1-backport.jar",
-            "MD5": "c9b0cc43d461c95bffc8b3646d8f122763601ab7"
-          }
-        },
-        {
           "id": "earth.terrarium:heracles:1.1.13@jar",
           "name": "Heracles",
           "type": "ForgeMod",
@@ -836,9 +826,9 @@
           "name": "Rpg",
           "type": "ForgeMod",
           "artifact": {
-            "size": 4455143,
+            "size": 4455779,
             "url": "https://jw010801.github.io/ljw-nebula-dist/servers/Myserver-1.20.1/forgemods/required/rpg-1.0-SNAPSHOT.jar",
-            "MD5": "2090b73645c739d332c39ab16abc786a"
+            "MD5": "d4cffc93249c69591a80681ef2c5bb27"
           }
         },
         {
