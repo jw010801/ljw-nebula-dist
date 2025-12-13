@@ -872,13 +872,13 @@
           }
         },
         {
-          "id": "com.bonker.stardewfishing:stardew_fishing:3.3@jar",
+          "id": "com.bonker.stardewfishing:stardew_fishing:3.2@jar",
           "name": "Stardew Fishing",
           "type": "ForgeMod",
           "artifact": {
-            "size": 876083,
-            "url": "https://cdn.modrinth.com/data/Rw1Ylmn4/versions/3qOnpney/stardew_fishing-3.3-1.20.1.jar",
-            "MD5": "445eea2c164dc5527d8c1d3cda9ddd00d316eb50"
+            "size": 858581,
+            "url": "https://cdn.modrinth.com/data/Rw1Ylmn4/versions/7h6Cjuz9/stardew_fishing-3.2-1.20.1.jar",
+            "MD5": "0eeae8b7af36dbf6e1517e6ce7725072e67b10ab"
           }
         },
         {
